@@ -12,5 +12,12 @@
     "device_id": "PC-64D7BE8C05AF",
     "expira": "2026-12-31",
     "tipo": "client"
+  },
+  "LIC-LAC-CLI-EHNR0": {
+    "cliente": "La Casaba",
+    "company_code": "LACASABA",
+    "device_id": "PC-83371A917A29",
+    "expira": "2026-12-31",
+    "tipo": "client"
   }
 }
