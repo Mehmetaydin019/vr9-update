@@ -19,5 +19,12 @@
     "device_id": "PC-83371A917A29",
     "expira": "2026-12-31",
     "tipo": "client"
+  },
+  "LIC-GAL-CLI-3J053": {
+    "cliente": "Galata Trend",
+    "company_code": "GALATATREND",
+    "device_id": "PC-C44240827DF6",
+    "expira": "2026-12-31",
+    "tipo": "client"
   }
 }
