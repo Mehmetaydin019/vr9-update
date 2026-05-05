@@ -40,12 +40,5 @@
     "device_id": "PC-C524EE816573",
     "expira": "2026-12-31",
     "tipo": "client"
-  },
-  "LIC-GAL-CLI-FCHRA": {
-    "cliente": "Galata Trend",
-    "company_code": "GALATATREND",
-    "device_id": "PC-53A87C3D8CEF",
-    "expira": "2026-12-31",
-    "tipo": "client"
   }
 }
