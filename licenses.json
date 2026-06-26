@@ -47,5 +47,19 @@
     "device_id": "PC-53A87C3D8CEF",
     "expira": "2028-12-31",
     "tipo": "client"
+  },
+  "LIC-LAC-CLI-S6TSD": {
+    "cliente": "La Casaba",
+    "company_code": "LACASABA",
+    "device_id": "PC-2151BC76B47E",
+    "expira": "2028-12-31",
+    "tipo": "client"
+  },
+  "LIC-LAC-CLI-R4N10": {
+    "cliente": "La Casaba",
+    "company_code": "LACASABA",
+    "device_id": "PC-9D67486746D8",
+    "expira": "2028-12-31",
+    "tipo": "client"
   }
 }
