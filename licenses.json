@@ -75,5 +75,12 @@
     "device_id": "PC-C44240827DF6",
     "expira": "2028-12-31",
     "tipo": "client"
+  },
+  "LIC-BES-CLI-B97MU": {
+    "cliente": "Best Style",
+    "company_code": "BESTSTYLE",
+    "device_id": "PC-6CC11EBF9A77",
+    "expira": "2028-12-31",
+    "tipo": "client"
   }
 }
