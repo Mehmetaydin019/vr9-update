@@ -96,5 +96,12 @@
     "device_id": "PC-B36B0ECEC5DE",
     "expira": "2028-12-31",
     "tipo": "client"
+  },
+  "LIC-GAL-CLI-WP17A": {
+    "cliente": "Galata Trend",
+    "company_code": "GALATATREND",
+    "device_id": "PC-9FB196239C9A",
+    "expira": "2028-12-31",
+    "tipo": "client"
   }
 }
